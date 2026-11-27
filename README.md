@@ -4,7 +4,7 @@ A basic personal portfolio website created during my web development learning jo
 
 ## 🌐 Live Demo
 
-[Visit My Portfolio]((https://syesh.github.io/basic-portfolio/))
+https://syesh.github.io/basic-portfolio/
 
 ## Features
 
